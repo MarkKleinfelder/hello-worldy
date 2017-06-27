@@ -1,1 +1,1 @@
-a thing
+This is some text.
